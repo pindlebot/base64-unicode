@@ -2,5 +2,9 @@
   "name": "base64-unicode",
   "version": "0.0.1",
   "main": "src/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unshift/base64-unicode.git"
+  }
 }
